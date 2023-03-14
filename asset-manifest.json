@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/carisse-portfolio/static/css/main.10e24b16.css",
-    "main.js": "/carisse-portfolio/static/js/main.e592e282.js",
+    "main.js": "/carisse-portfolio/static/js/main.8f3631f1.js",
     "static/js/304.ad1a474f.chunk.js": "/carisse-portfolio/static/js/304.ad1a474f.chunk.js",
     "static/js/609.0d198b5f.chunk.js": "/carisse-portfolio/static/js/609.0d198b5f.chunk.js",
     "static/js/281.b73d290f.chunk.js": "/carisse-portfolio/static/js/281.b73d290f.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/792.12d8594e.chunk.js": "/carisse-portfolio/static/js/792.12d8594e.chunk.js",
     "index.html": "/carisse-portfolio/index.html",
     "main.10e24b16.css.map": "/carisse-portfolio/static/css/main.10e24b16.css.map",
-    "main.e592e282.js.map": "/carisse-portfolio/static/js/main.e592e282.js.map",
+    "main.8f3631f1.js.map": "/carisse-portfolio/static/js/main.8f3631f1.js.map",
     "304.ad1a474f.chunk.js.map": "/carisse-portfolio/static/js/304.ad1a474f.chunk.js.map",
     "609.0d198b5f.chunk.js.map": "/carisse-portfolio/static/js/609.0d198b5f.chunk.js.map",
     "281.b73d290f.chunk.js.map": "/carisse-portfolio/static/js/281.b73d290f.chunk.js.map",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.10e24b16.css",
-    "static/js/main.e592e282.js"
+    "static/js/main.8f3631f1.js"
   ]
 }
