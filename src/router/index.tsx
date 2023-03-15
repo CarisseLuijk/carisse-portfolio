@@ -4,13 +4,15 @@ import Footer from "../components/Footer";
 import Header from "../components/Header";
 import routes from "./config";
 import { Styles } from "../styles/styles";
+import Home from "../pages/Home";
 
 const Router = () => {
   return (
     <Suspense fallback={null}>
       <Styles />
       {/* <Header /> */}
-      <Switch>
+      <Home />
+      {/* <Switch>
         {routes.map((routeItem) => {
           return (
             <Route
@@ -21,7 +23,7 @@ const Router = () => {
             />
           );
         })}
-      </Switch>
+      </Switch> */}
       {/* <Footer /> */}
     </Suspense>
   );
