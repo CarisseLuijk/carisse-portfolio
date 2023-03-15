@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import Background from '../../Assets/carisse-photo.jpg'
+import Background from '../../Assets/section-2.jpg'
 
 export const StyledContainer = styled("div")<any>`
   position: relative;
