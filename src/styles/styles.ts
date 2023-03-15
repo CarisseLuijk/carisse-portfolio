@@ -73,7 +73,7 @@ export const Styles = createGlobalStyle`
 
     p {
         color: #000000;
-        font-size: 21px;        
+        font-size: 15px;        
         line-height: 1.41;
     }
 

@@ -18,7 +18,7 @@ const Home = () => {
         title={Section1.title}
         content={Section1.text}
         button={Section1.button}
-        icon="background-image.jpg"
+        icon="carisse-photo.jpg"
         id="intro"
       />
       <ContentBlock
